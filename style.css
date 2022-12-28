@@ -1,0 +1,15 @@
+#app{
+    background-color: rgb(122, 182, 231);
+}
+#game{
+    background-color: gold;
+}
+#chatbot{
+    background-color: dimgray;
+}
+.line{
+    height:60px;
+    background-color: dodgerblue;
+    width:100px;
+    margin:8px auto;
+}
